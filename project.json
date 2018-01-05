@@ -1,0 +1,13 @@
+{
+    "id": "graphql/parser",
+    "type": "package",
+    "value": {
+        "description": "GraphQL parser",
+        "author": "Facebook",
+        "license": "BSD 3",
+        "version": "0.7.0",
+        "language": "c",
+        "c4cpp": true,
+        "managed": false
+    }
+}
